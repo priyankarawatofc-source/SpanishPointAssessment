@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssesmentSpanishPoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b3a201176bf79b3d38501b185b19046b6a9a66e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssesmentSpanishPoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssesmentSpanishPoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
